@@ -213,7 +213,7 @@ mvn -version
 If using Git:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/ShashiLakshan/land-route-app.git
 cd land-route-app
 ```
 
