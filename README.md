@@ -1,4 +1,4 @@
-# Land Route Service
+# Land Route App
 
 A simple Spring Boot application that calculates a possible land route from one country to another using country border information.
 
