@@ -364,4 +364,3 @@ Response:
 - The country data is loaded once during application startup.
 - The full country JSON is not kept permanently in memory.
 - Only the required border graph is stored as an immutable adjacency list.
-- The endpoint must remain `api/v1/routing/{origin}/{destination}` to match the test specification.
