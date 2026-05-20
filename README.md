@@ -258,7 +258,7 @@ mvn spring-boot:run
 Or run the packaged JAR:
 
 ```bash
-java -jar target/land-route-app-0.0.1-SNAPSHOT.jar
+java -jar target/land-route-app-0.0.1.jar
 ```
 
 The application starts on:
